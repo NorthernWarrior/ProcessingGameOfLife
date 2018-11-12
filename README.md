@@ -9,6 +9,6 @@ You can find more information about the rules for this cellular automaton on [wi
 - **"c"** - clears the whole screen
 - **"g"** - if the simulation is stopped, then the next generation will be evaluated (step-bystep)
 - **"h"** - show indicators for next cell states
-- **"0"** ... "9" - increase or decrease grid size
+- **"0" ... "9"** - increase or decrease grid size
 
 When the simulation is not running, you can draw new cells with the left mouse button and delete cells with the right mouse button.
